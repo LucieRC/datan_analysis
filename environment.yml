@@ -13,3 +13,4 @@ dependencies:
   - geopandas
   - cartopy
   - html5lib
+  - streamlit-aggrid
